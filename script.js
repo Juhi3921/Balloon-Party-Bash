@@ -57,13 +57,13 @@ var messages = [
   "Be You"
 ];
 var gradients = [
-  ["#ff9a9e", "#c471f5"], // pink -> purple
-  ["#43cea2", "#185a9d"], // green -> blue
-  ["#00c6ff", "#00ffd5"], // blue -> cyan
-  ["#ff9966", "#ffe259"], // orange -> yellow
-  ["#a8ff78", "#78ffd6"], // green -> mint
-  ["#f6d365", "#fda085"], // yellow -> peach
-  ["#fbc2eb", "#a6c1ee"]  // pink -> lavender
+  ["#ff9a9e", "#c471f5"], 
+  ["#43cea2", "#185a9d"], 
+  ["#00c6ff", "#00ffd5"], 
+  ["#ff9966", "#ffe259"], 
+  ["#a8ff78", "#78ffd6"], 
+  ["#f6d365", "#fda085"], 
+  ["#fbc2eb", "#a6c1ee"]  
 ];
 
 function pick(list) {

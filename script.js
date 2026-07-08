@@ -20,7 +20,6 @@ var messages = [
   "Imagine",
   "Create",
   "Explore",
-  "Wonder",
   "Spark",
   "Bright",
   "Lucky",
